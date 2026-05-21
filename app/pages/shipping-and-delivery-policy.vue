@@ -7,7 +7,7 @@
 
       <div class="hero-container reveal">
         <p class="eyebrow">Customer Support</p>
-        <h1>DELIVERY OF PRODUCTS</h1>
+        <h1>Delivery of Products</h1>
         <p class="hero-text">
           Review the dispatch timelines, verification rules, tracking conditions, 
           and product exchange procedures for your Indi Konnect orders.
