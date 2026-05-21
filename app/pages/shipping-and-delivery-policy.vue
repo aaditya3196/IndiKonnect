@@ -30,7 +30,7 @@
       <div class="policy-card reveal">
         <div class="card-top">
           <div class="card-icon">📦</div>
-          <h2>DELIVERY OF PRODUCTS</h2>
+          <h2>Delivery of Products</h2>
         </div>
         <div class="card-body-text">
           <p>
