@@ -77,7 +77,7 @@
             </li>
 
             <li>
-              <strong>Online form</strong> to be downloaded and filled in by the Distributor while couriering the product back to Vihaan warehouse for product replacement
+              <strong>Online form</strong> to be downloaded and filled in by the Distributor while couriering the product back to the warehouse for product replacement
             </li>
 
             <li>
@@ -85,7 +85,7 @@
             </li>
 
             <li>
-              Upon receipt of the returned product(s) at the Vihaan warehouse, and subject to compliance with all the stipulated criteria for replacement, the company will initiate dispatch of the correct product(s) within seven (7) working days.
+              Upon receipt of the returned product(s) at the warehouse, and subject to compliance with all the stipulated criteria for replacement, the company will initiate dispatch of the correct product(s) within seven (7) working days.
             </li>
 
             <li>
