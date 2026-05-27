@@ -1,5 +1,6 @@
 <template>
   <div class="privacy-page">
+    
 
     <!-- HERO -->
 
