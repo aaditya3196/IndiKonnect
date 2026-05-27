@@ -35,7 +35,7 @@
 
         <!-- INTRO -->
 
-        <div class="policy-card">
+        <div class="policy-block">
 
           <h2>
             Privacy Policy
@@ -59,7 +59,7 @@
 
         <!-- COLLECTION -->
 
-        <div class="policy-card">
+        <div class="policy-block">
 
           <h3>
             Collection of Your Personal Information
@@ -117,7 +117,7 @@
 
         <!-- USE -->
 
-        <div class="policy-card">
+        <div class="policy-block">
 
           <h3>
             Use of Your Personal Information
@@ -162,7 +162,7 @@
 
         <!-- COOKIES -->
 
-        <div class="policy-card">
+        <div class="policy-block">
 
           <h3>
             Use of Cookies
@@ -190,7 +190,7 @@
 
         <!-- TRACKING -->
 
-        <div class="policy-card">
+        <div class="policy-block">
 
           <h3>
             Clear Gifs (Web Beacons/Web Bugs)
@@ -213,7 +213,7 @@
 
         <!-- FLASH -->
 
-        <div class="policy-card">
+        <div class="policy-block">
 
           <h3>
             Flash LSOs
@@ -236,7 +236,7 @@
 
         <!-- MOBILE -->
 
-        <div class="policy-card">
+        <div class="policy-block">
 
           <h3>
             Mobile Analytics
@@ -258,7 +258,7 @@
 
         <!-- SECURITY -->
 
-        <div class="policy-card">
+        <div class="policy-block">
 
           <h3>
             Security of Your Personal Information
@@ -286,7 +286,7 @@
 
         <!-- SOCIAL -->
 
-        <div class="policy-card">
+        <div class="policy-block">
 
           <h3>
             Social Media Features and Widgets
@@ -307,7 +307,7 @@
 
         <!-- ACCESS -->
 
-        <div class="policy-card">
+        <div class="policy-block">
 
           <h3>
             Access to Your Personal Information
@@ -328,7 +328,7 @@
 
         <!-- DISCLAIMER -->
 
-        <div class="policy-card">
+        <div class="policy-block">
 
           <h3>
             Disclaimer
@@ -367,7 +367,7 @@
 
         <!-- CHANGES -->
 
-        <div class="policy-card">
+        <div class="policy-block">
 
           <h3>
             Changes to this Policy
@@ -388,7 +388,7 @@
 
         <!-- CONTACT -->
 
-        <div class="policy-card contact-card">
+        <div class="policy-block contact-card">
 
           <h3>
             Contact Information
@@ -525,7 +525,7 @@ useSeoMeta({
 /* CONTENT */
 
 .policy-section {
-  padding: 20px 7% 80px;
+  padding: 20px 7% 40px;
 }
 
 .policy-wrapper {
@@ -533,40 +533,39 @@ useSeoMeta({
   margin: auto;
 }
 
-.policy-card {
-  background: white;
-  border-radius: 18px;
-  padding: 20px;
-  margin-bottom: 18px;
-  border: 1px solid rgba(0,61,165,0.08);
-  box-shadow:
-    0 8px 24px rgba(0,0,0,0.04);
+.policy-block {
+  margin-bottom: 42px;
 }
 
-.policy-card h2 {
+.policy-block h2 {
   font-size: 34px;
   color: #003DA5;
   margin-bottom: 18px;
 }
 
-.policy-card h3 {
+.policy-block h3 {
   font-size: 24px;
   color: #003DA5;
   margin-bottom: 18px;
 }
 
-.policy-card p {
+.policy-block p {
   font-size: 15px;
   line-height: 1.9;
   color: #4c5661;
-  margin-bottom: 10px;
-  margin-top:10px;
+  margin-bottom: 14px;
 }
 
 /* CONTACT */
 
 .contact-card {
   background: #003DA5;
+  border-radius: 18px;
+  padding: 28px;
+}
+
+.contact-card {
+  margin-bottom: 0;
 }
 
 .contact-card h3,
@@ -580,7 +579,7 @@ useSeoMeta({
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   gap: 20px;
-  margin-top: 28px;
+  margin-top: 18px;
 }
 
 .contact-item {
@@ -619,18 +618,13 @@ useSeoMeta({
     padding: 34px 5% 60px;
   }
 
-  .policy-card {
-    padding: 24px;
-    border-radius: 14px;
-  }
+  .policy-block h2 {
+  font-size: 28px;
+}
 
-  .policy-card h2 {
-    font-size: 28px;
-  }
-
-  .policy-card h3 {
-    font-size: 21px;
-  }
+.policy-block h3 {
+  font-size: 21px;
+}
 
   .contact-grid {
     grid-template-columns: 1fr;
