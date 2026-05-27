@@ -417,7 +417,7 @@
               <span>Address</span>
 
               <strong>
-                SCO 112–113, Sector 34A,<br>
+                Dummy address,<br>
                 Chandigarh – 160022,<br>
                 Punjab, India
               </strong>
@@ -429,7 +429,7 @@
               <span>Email</span>
 
               <strong>
-                privacy@indikonnect.in
+                dummy@indikonnect.com
               </strong>
 
             </div>
@@ -439,8 +439,8 @@
               <span>Phone</span>
 
               <strong>
-                +91 98765 43210<br>
-                +91 98111 22334
+                +91 12345 67891<br>
+                +91 12345 67891
               </strong>
 
             </div>
