@@ -9,10 +9,6 @@
 
       <div class="hero-container reveal">
 
-        <p class="eyebrow">
-          Customer Support
-        </p>
-
         <h1>
           Return & Replacement Policy
         </h1>
@@ -21,20 +17,6 @@
           Indi Konnect is committed to providing a smooth and transparent
           replacement experience for all customers and distributors.
         </p>
-
-        <div class="hero-badges">
-
-          <div class="hero-badge">
-            <span class="badge-num">7 Days</span>
-            <p class="badge-lbl">Replacement Window</p>
-          </div>
-
-          <div class="hero-badge">
-            <span class="badge-num">15 Days</span>
-            <p class="badge-lbl">Delivery Timeline</p>
-          </div>
-
-        </div>
 
       </div>
 
@@ -77,7 +59,7 @@
             </li>
 
             <li>
-              <strong>Online form</strong> to be downloaded and filled in by the Distributor while couriering the product back to the warehouse for product replacement
+              <strong>Online form</strong> to be downloaded and filled in by the Distributor while couriering the product back to Vihaan warehouse for product replacement
             </li>
 
             <li>
@@ -85,7 +67,7 @@
             </li>
 
             <li>
-              Upon receipt of the returned product(s) at the warehouse, and subject to compliance with all the stipulated criteria for replacement, the company will initiate dispatch of the correct product(s) within seven (7) working days.
+              Upon receipt of the returned product(s) at the Vihaan warehouse, and subject to compliance with all the stipulated criteria for replacement, the company will initiate dispatch of the correct product(s) within seven (7) working days.
             </li>
 
             <li>
@@ -163,7 +145,7 @@ onMounted(() => {
 
 .hero-section{
   position:relative;
-  padding:80px 5% 65px;
+  padding:70px 5% 30px;
   background:#003DA5;
   overflow:hidden;
   display:flex;
@@ -199,17 +181,9 @@ onMounted(() => {
   left:-50px;
 }
 
-.eyebrow{
-  color:#FFC72C;
-  text-transform:uppercase;
-  letter-spacing:2.5px;
-  font-size:14px;
-  margin-bottom:14px;
-  font-weight:700;
-}
 
 .hero-container h1{
-  color:white;
+  color:#FFC72C;
   font-size:46px;
   line-height:1.1;
   margin-bottom:16px;
@@ -224,32 +198,6 @@ onMounted(() => {
   margin-bottom:28px;
 }
 
-.hero-badges{
-  display:flex;
-  gap:18px;
-  flex-wrap:wrap;
-}
-
-.hero-badge{
-  background:rgba(255,255,255,0.07);
-  border:1px solid rgba(255,255,255,0.14);
-  padding:16px 22px;
-  border-radius:16px;
-  min-width:220px;
-}
-
-.badge-num{
-  display:block;
-  color:#FFC72C;
-  font-size:30px;
-  font-weight:800;
-  margin-bottom:2px;
-}
-
-.badge-lbl{
-  color:white;
-  font-size:14px;
-}
 
 /* CONTENT */
 
