@@ -8,7 +8,7 @@
       <div class="hero-content">
 
         <p class="eyebrow">
-          Legal Information
+          Compliance
         </p>
 
         <h1>
@@ -18,10 +18,6 @@
         <p class="hero-description">
           Learn how Indi Konnect collects, uses, stores, and protects your personal information.
         </p>
-
-        <div class="updated-tag">
-          Updated: January 2026
-        </div>
 
       </div>
 
@@ -417,7 +413,7 @@
               <span>Address</span>
 
               <strong>
-                Dummy address,<br>
+                SCO 112–113, Sector 34A,<br>
                 Chandigarh – 160022,<br>
                 Punjab, India
               </strong>
@@ -429,7 +425,7 @@
               <span>Email</span>
 
               <strong>
-                dummy@indikonnect.com
+                privacy@indikonnect.in
               </strong>
 
             </div>
@@ -439,8 +435,8 @@
               <span>Phone</span>
 
               <strong>
-                +91 12345 67891<br>
-                +91 12345 67891
+                +91 98765 43210<br>
+                +91 98111 22334
               </strong>
 
             </div>
@@ -481,7 +477,7 @@ useSeoMeta({
 
 .privacy-hero {
   background: #003DA5;
-  padding: 52px 7% 30px;
+  padding: 52px 7% 20px;
 }
 
 .hero-content {
@@ -494,7 +490,7 @@ useSeoMeta({
   letter-spacing: 2px;
   text-transform: uppercase;
   font-weight: 700;
-  margin-bottom: 14px;
+  margin-bottom: 5px;
 }
 
 .privacy-hero h1 {
@@ -510,16 +506,6 @@ useSeoMeta({
   font-size: 16px;
   line-height: 1.7;
   max-width: 650px;
-}
-
-.updated-tag {
-  margin-top: 22px;
-  display: inline-block;
-  padding: 10px 16px;
-  border-radius: 10px;
-  background: rgba(255,255,255,0.10);
-  color: white;
-  font-size: 14px;
 }
 
 /* CONTENT */
