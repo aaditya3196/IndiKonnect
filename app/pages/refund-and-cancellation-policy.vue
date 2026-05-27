@@ -9,10 +9,6 @@
 
       <div class="hero-container reveal">
 
-        <p class="eyebrow">
-          Customer Support
-        </p>
-
         <h1>
           Refund / Cancellation Policy
         </h1>
@@ -21,20 +17,6 @@
           Learn about Indi Konnect’s refund eligibility, cancellation conditions,
           and processing timelines for purchased products.
         </p>
-
-        <div class="hero-badges">
-
-          <div class="hero-badge">
-            <span class="badge-num">30 Days</span>
-            <p class="badge-lbl">Refund Window</p>
-          </div>
-
-          <div class="hero-badge">
-            <span class="badge-num">100%</span>
-            <p class="badge-lbl">Unused Product Requirement</p>
-          </div>
-
-        </div>
 
       </div>
 
@@ -124,7 +106,7 @@ onMounted(() => {
 
 .hero-section{
   position:relative;
-  padding:80px 5% 65px;
+  padding:70px 5% 20px;
   background:#003DA5;
   overflow:hidden;
   display:flex;
@@ -160,17 +142,8 @@ onMounted(() => {
   left:-50px;
 }
 
-.eyebrow{
-  color:#FFC72C;
-  text-transform:uppercase;
-  letter-spacing:2.5px;
-  font-size:14px;
-  margin-bottom:14px;
-  font-weight:700;
-}
-
 .hero-container h1{
-  color:white;
+  color:#FFC72C;
   font-size:46px;
   line-height:1.1;
   margin-bottom:16px;
@@ -183,33 +156,6 @@ onMounted(() => {
   line-height:1.7;
   max-width:720px;
   margin-bottom:28px;
-}
-
-.hero-badges{
-  display:flex;
-  gap:18px;
-  flex-wrap:wrap;
-}
-
-.hero-badge{
-  background:rgba(255,255,255,0.07);
-  border:1px solid rgba(255,255,255,0.14);
-  padding:16px 22px;
-  border-radius:16px;
-  min-width:220px;
-}
-
-.badge-num{
-  display:block;
-  color:#FFC72C;
-  font-size:30px;
-  font-weight:800;
-  margin-bottom:2px;
-}
-
-.badge-lbl{
-  color:white;
-  font-size:14px;
 }
 
 /* CONTENT */
