@@ -27,12 +27,9 @@
     </section>
 
     <section class="section">
-      <div class="policy-card reveal">
-        <div class="card-top">
-          <div class="card-icon">↺</div>
-          <h2>Return and Replacement of Your Ordered Products</h2>
-        </div>
-        <div class="card-body-text">
+      <div class="policy-block reveal">
+        <h2>Return and Replacement of Your Ordered Products</h2>
+        <div>
           <p>
             In the event the product/s received by you is different from what was
             ordered, you must notify us via email within seven (7) days from the
@@ -53,8 +50,8 @@
         <h2>Replacement Process Timeline</h2>
       </div>
 
-      <div class="timeline-grid">
-        <div class="timeline-card reveal">
+      <div class="simple-list">
+        <div class="simple-item reveal">
           <div class="timeline-header">
             <div class="timeline-number">01</div>
             <h3>Report Within 7 Days</h3>
@@ -65,7 +62,7 @@
           </p>
         </div>
 
-        <div class="timeline-card reveal">
+        <div class="simple-item reveal">
           <div class="timeline-header">
             <div class="timeline-number yellow">02</div>
             <h3>Product Verification</h3>
@@ -76,7 +73,7 @@
           </p>
         </div>
 
-        <div class="timeline-card reveal">
+        <div class="simple-item reveal">
           <div class="timeline-header">
             <div class="timeline-number">03</div>
             <h3>Dispatch & Delivery</h3>
@@ -96,7 +93,7 @@
       </div>
 
       <div class="checklist-wrapper">
-        <div class="checklist-card reveal">
+        <div class="simple-check reveal">
           <div class="check-icon">✓</div>
           <p>
             Physical Product replacement requests are applicable only within
@@ -104,7 +101,7 @@
           </p>
         </div>
 
-        <div class="checklist-card reveal">
+        <div class="simple-check reveal">
           <div class="check-icon">✓</div>
           <p>
             The Distributor should send a mail from his/her registered email ID
@@ -113,7 +110,7 @@
           </p>
         </div>
 
-        <div class="checklist-card reveal">
+        <div class="simple-check reveal">
           <div class="check-icon">✓</div>
           <p>
             Online form to be downloaded and filled in by the Distributor while
@@ -122,7 +119,7 @@
           </p>
         </div>
 
-        <div class="checklist-card reveal">
+        <div class="simple-check reveal">
           <div class="check-icon">✓</div>
           <p>
             The Distributor should meet all criteria related to the product
@@ -130,7 +127,7 @@
           </p>
         </div>
 
-        <div class="checklist-card reveal">
+        <div class="simple-check reveal">
           <div class="check-icon">✓</div>
           <p>
             Upon receipt of the returned product(s) at the Indi Konnect
@@ -140,7 +137,7 @@
           </p>
         </div>
 
-        <div class="checklist-card reveal">
+        <div class="simple-check reveal">
           <div class="check-icon">✓</div>
           <p>
             In the event of a delay beyond the stipulated timeline due to
@@ -149,7 +146,7 @@
           </p>
         </div>
 
-        <div class="checklist-card reveal">
+        <div class="simple-check reveal">
           <div class="check-icon">✓</div>
           <p>
             If approved, the exchanged or replaced product will be delivered
@@ -160,7 +157,7 @@
     </section>
 
     <section class="section dark-bg-section">
-      <div class="note-card reveal">
+      <div class="simple-note reveal">
         <div class="note-icon">!</div>
         <div class="note-content">
           <p class="note-title">Important Notice</p>
@@ -345,7 +342,7 @@ onMounted(() => {
 
 /* UNIVERSAL SECTIONS STRUCTURING */
 .section {
-  padding: 60px 5%;
+  padding: 42px 5%;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -388,69 +385,54 @@ onMounted(() => {
 }
 
 /* POLICY CARD */
-.policy-card {
-  background: #ffffff;
-  border-radius: 24px;
-  padding: 40px;
-  border: 1px solid rgba(0, 61, 165, 0.08);
-  box-shadow: 0 10px 30px rgba(0, 61, 165, 0.03);
-}
-
-.card-top {
-  display: flex;
-  align-items: center;
-  gap: 20px;
-  margin-bottom: 28px;
-}
-
-.card-icon {
-  width: 56px;
-  height: 56px;
-  border-radius: 16px;
-  background: #FFC72C;
-  color: #003DA5;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 26px;
-  font-weight: 700;
-  flex-shrink: 0;
-}
-
-.policy-card h2 {
-  font-size: 28px;
+.policy-block h2,
+.section-title h2 {
+  font-size: 32px;
   color: #1A202C;
   font-weight: 800;
-  line-height: 1.2;
+  margin-bottom: 24px;
+  letter-spacing: -0.5px;
 }
 
-.card-body-text p {
+.policy-block p,
+.simple-item p,
+.simple-check p {
   color: #4A5568;
-  line-height: 1.7;
+  line-height: 1.8;
   font-size: 16px;
   margin-bottom: 18px;
 }
 
-.card-body-text p:last-child {
-  margin-bottom: 0;
+.simple-list {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.simple-item {
+  padding-bottom: 24px;
+  border-bottom: 1px solid rgba(0,61,165,0.08);
+}
+
+.simple-item:last-child {
+  border-bottom: none;
+  padding-bottom: 0;
+}
+
+.simple-check {
+  display: flex;
+  gap: 18px;
+  align-items: flex-start;
+  padding-bottom: 20px;
+}
+
+.simple-note {
+  display: flex;
+  gap: 20px;
+  align-items: center;
 }
 
 /* TIMELINE PROCESS CARDS */
-.timeline-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 24px;
-}
-
-.timeline-card {
-  background: #ffffff;
-  border-radius: 20px;
-  padding: 32px;
-  border: 1px solid rgba(0, 61, 165, 0.06);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.02);
-  display: flex;
-  flex-direction: column;
-}
 
 .timeline-header {
   display: flex;
@@ -495,17 +477,6 @@ onMounted(() => {
   display: flex;
   flex-direction: column;
   gap: 16px;
-}
-
-.checklist-card {
-  display: flex;
-  gap: 18px;
-  align-items: flex-start; /* Forces children to align at the top bounds */
-  background: #ffffff;
-  border-radius: 16px;
-  padding: 24px;
-  border: 1px solid rgba(0, 61, 165, 0.06);
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.01);
 }
 
 .check-icon {
@@ -687,14 +658,6 @@ onMounted(() => {
   .section-title h2,
   .support-card h2 {
     font-size: 26px;
-  }
-
-  .policy-card {
-    padding: 28px;
-  }
-
-  .policy-card h2 {
-    font-size: 22px;
   }
 
   .timeline-grid,
