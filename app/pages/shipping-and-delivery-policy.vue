@@ -18,15 +18,16 @@
         </h1>
 
         <p class="hero-text">
-          Review the dispatch timelines, verification rules, tracking conditions,
-          and product exchange procedures for your Indi Konnect orders.
+          Review the delivery timelines, ownership conditions,
+          verification requirements, and exchange procedures
+          for your Indi Konnect orders.
         </p>
 
         <div class="hero-badges">
 
           <div class="hero-badge">
             <span class="badge-num">30 Days</span>
-            <p class="badge-lbl">Max Delivery Window</p>
+            <p class="badge-lbl">Maximum Delivery Timeline</p>
           </div>
 
           <div class="hero-badge">
@@ -46,211 +47,124 @@
       <div class="content-wrapper reveal">
 
         <h2>
-          Delivery of Products
+          DELIVERY OF PRODUCTS
         </h2>
 
-        <div class="legal-point">
-          <p>
-            <span class="point-number">1.</span>
+        <ol class="main-list">
+
+          <li>
             We will deliver the product/s, if it is, they a/are good/s, ordered by you to the address you give us for delivery at the time you make your purchase. All product/s will be / are dispatched according to the order placed by you. Once the product/s is / are dispatched, change of shipping address will not be allowed.
-          </p>
-        </div>
+          </li>
 
-        <div class="legal-point">
-          <p>
-            <span class="point-number">2.</span>
+          <li>
             Delivery will be made as soon as possible after your order is accepted and in any event within thirty (30) days of your invoice. Delivery will be by way of courier or other similar services. Once the product/s is / are dispatched, any change of shipping address will not be allowed.
-          </p>
-        </div>
+          </li>
 
-        <div class="legal-point">
-          <p>
-            <span class="point-number">3.</span>
+          <li>
             You must produce your valid identification proof ("valid ID") for verification before acceptance of the product/s. In the event you are not able to receive the product/s, you must authorise any of your immediate family members and/or any authorised person to receive the product/s who is able to verify his/her authorisation by producing a valid ID.
-          </p>
-        </div>
+          </li>
 
-        <div class="legal-point">
-          <p>
-            <span class="point-number">4.</span>
+          <li>
             You will become the owner of the product/s, if it is a/are good/s, ordered by you when they have been delivered to you. Once the product/s have been delivered to you, they will be held at your own risk and we will not be liable for their loss or damage.
+          </li>
+
+        </ol>
+
+        <!-- DISCLAIMER -->
+
+        <div class="disclaimer-block">
+
+          <p class="disclaimer-title">
+            Disclaimer:
           </p>
-        </div>
 
-        <h2 class="section-heading">
-          Delivery Timelines
-        </h2>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">5.</span>
+          <p class="disclaimer-text">
             In the event of a delay in product delivery beyond the stipulated timeline due to non-availability of stock, the concerned Distributor/Customer will be notified via email regarding the revised dispatch schedule.
           </p>
-        </div>
 
-        <div class="legal-point">
-          <p>
-            <span class="point-number">6.</span>
-            Any updates regarding delays in product deliveries are published on the official company website for reference.
+          <p class="disclaimer-text">
+            Please note: Any updates regarding delays in product deliveries are published on the official company website for reference.
           </p>
+
         </div>
 
-        <div class="legal-point">
-          <p>
-            <span class="point-number">7.</span>
+        <!-- POINT 5 -->
+
+        <ol start="5" class="main-list second-list">
+
+          <li>
             In the event the product/s received by you is different from what was ordered, you must notify us via email within seven (7) days from the date of purchase. In the event of any damage or there is shortage of the product/s received, you must notify us via email within seven (7) days of receipt of the product/s.
-          </p>
-        </div>
+          </li>
 
-        <h2 class="section-heading">
-          Product Exchange
-        </h2>
+        </ol>
 
-        <div class="legal-point">
-          <p>
-            <span class="point-number">8.</span>
-            Physical Product exchange requests are applicable only within 7 days from the date of purchase the product.
-          </p>
-        </div>
+        <!-- PRODUCT EXCHANGE -->
 
-        <div class="legal-point">
-          <p>
-            <span class="point-number">9.</span>
-            The Distributor should send a mail from his/her registered email ID within 7 days from the date of purchase mentioning all relevant details to dummy@indikonnect.com
-          </p>
-        </div>
+        <div class="exchange-block">
 
-        <div class="legal-point">
-          <p>
-            <span class="point-number">10.</span>
-            Online form to be downloaded and filled in by the Distributor while couriering the product back to warehouse for product exchange.
-          </p>
-        </div>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">11.</span>
-            Click on Hyperlink to download form - Mandatory form to be downloaded while couriering the product to warehouse.
-          </p>
-        </div>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">12.</span>
-            If there are multiple products purchased under a single order number and the Distributor wishes to exchange only one product, the request will be processed.
-          </p>
-        </div>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">13.</span>
-            Distributor to choose products of the same BV points which he/she will want to exchange it with.
-          </p>
-        </div>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">14.</span>
-            Virtual products cannot be exchanged against any other products. Combo products cannot be exchanged.
-          </p>
-        </div>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">15.</span>
-            Product exchange requests will not be entertained after 7 days from the date of purchase.
-          </p>
-        </div>
-
-        <div class="legal-point last-point">
-          <p>
-            <span class="point-number">16.</span>
-            Distributor will have to select the same BV products which he/she wishes to exchange it with.
-          </p>
-        </div>
-
-      </div>
-
-    </section>
-
-    <!-- NOTICE -->
-    <section class="notice-section">
-
-      <div class="notice-card reveal">
-
-        <div class="note-icon">
-          !
-        </div>
-
-        <div>
-
-          <p class="notice-title">
-            Binding Contract Agreement
+          <p class="exchange-title">
+            Product Exchange:
           </p>
 
-          <p class="notice-text">
+          <p class="exchange-subtitle">
+            Check List:
+          </p>
+
+          <ul class="exchange-list">
+
+            <li>
+              Physical Product exchange requests are applicable only within 7 days from the date of purchase the product.
+            </li>
+
+            <li>
+              The Distributor should send a mail from his/her registered email ID within 7 days from the date of purchase mentioning all relevant details to
+              <a href="mailto:dummy@indikonnect.com">
+                dummy@indikonnect.com
+              </a>
+            </li>
+
+            <li>
+              Online form to be downloaded and filled in by the Distributor while couriering the product back to warehouse for product exchange.
+            </li>
+
+            <li>
+              Click on Hyperlink to download form - Mandatory form to be downloaded while couriering the product to warehouse.
+            </li>
+
+            <li>
+              If there are multiple products purchased under a single order number and the Distributor wishes to exchange only one product, the request will be processed.
+            </li>
+
+            <li>
+              Distributor to choose products of the same BV points which he/she will want to exchange it with.
+            </li>
+
+            <li>
+              Virtual products cannot be exchanged against any other products.
+              Combo products cannot be exchanged.
+            </li>
+
+            <li>
+              Product exchange requests will not be entertained after 7 days from the date of purchase.
+            </li>
+
+            <li>
+              Distributor will have to select the same BV products which he/she wishes to exchange it with.
+            </li>
+
+          </ul>
+
+        </div>
+
+        <!-- POINT 6 -->
+
+        <ol start="6" class="main-list second-list">
+
+          <li>
             If the product/s you order is/are not physical products, the email we send you for the confirmation of our acceptance shall be conclusive evidence of a binding contract between us for your purchase of the product/s.
-          </p>
+          </li>
 
-        </div>
-
-      </div>
-
-    </section>
-
-    <!-- SUPPORT -->
-    <section class="support-section">
-
-      <div class="support-card reveal">
-
-        <p class="eyebrow-dark">
-          Need Help?
-        </p>
-
-        <h2>
-          Contact Indi Konnect Support
-        </h2>
-
-        <div class="support-grid">
-
-          <div class="support-item">
-
-            <span class="support-label">
-              Email
-            </span>
-
-            <p class="support-value font-medium">
-              dummy@indikonnect.com
-            </p>
-
-          </div>
-
-          <div class="support-item">
-
-            <span class="support-label">
-              Phone
-            </span>
-
-            <p class="support-value font-medium">
-              +91 12345 67891
-            </p>
-
-          </div>
-
-          <div class="support-item">
-
-            <span class="support-label">
-              Address
-            </span>
-
-            <p class="support-value leading-relaxed">
-              Dummy address,<br>
-              Chandigarh, India 160022
-            </p>
-
-          </div>
-
-        </div>
+        </ol>
 
       </div>
 
@@ -367,8 +281,8 @@ onMounted(() => {
 .hero-text{
   color:rgba(255,255,255,0.88);
   font-size:17px;
-  line-height:1.6;
-  max-width:700px;
+  line-height:1.7;
+  max-width:720px;
   margin-bottom:28px;
 }
 
@@ -402,160 +316,109 @@ onMounted(() => {
 /* CONTENT */
 
 .content-section{
-  padding:40px 5%;
+  padding:45px 5% 25px;
+  background:#ffffff;
 }
 
 .content-wrapper{
-  max-width:1100px;
+  max-width:1150px;
   margin:auto;
 }
 
 .content-wrapper h2{
-  font-size:30px;
-  color:#003DA5;
-  margin-bottom:20px;
-  font-weight:800;
-}
-
-.section-heading{
-  margin-top:34px;
-}
-
-.legal-point{
-  padding-bottom:18px;
-  margin-bottom:18px;
-  border-bottom:1px solid rgba(0,61,165,0.08);
-}
-
-.last-point{
-  margin-bottom:0;
-  padding-bottom:0;
-  border-bottom:none;
-}
-
-.legal-point p{
-  color:#4A5568;
-  font-size:15px;
-  line-height:1.8;
-}
-
-.point-number{
-  font-weight:700;
-  color:#2D3748;
-  margin-right:6px;
-}
-
-/* NOTICE */
-
-.notice-section{
-  background:#003DA5;
-  padding:40px 5%;
-}
-
-.notice-card{
-  max-width:1100px;
-  margin:auto;
-  display:flex;
-  gap:20px;
-  align-items:center;
-  background:rgba(255,255,255,0.08);
-  border:1px solid rgba(255,255,255,0.15);
-  padding:28px;
-  border-radius:18px;
-}
-
-.note-icon{
-  width:46px;
-  height:46px;
-  border-radius:14px;
-  background:#FFC72C;
-  color:#003DA5;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  font-size:22px;
-  font-weight:800;
-  flex-shrink:0;
-}
-
-.notice-title{
-  color:white;
   font-size:20px;
-  margin-bottom:6px;
-  font-weight:700;
-}
-
-.notice-text{
-  color:rgba(255,255,255,0.88);
-  line-height:1.7;
-  font-size:15px;
-}
-
-/* SUPPORT */
-
-.support-section{
-  padding:40px 5%;
-}
-
-.support-card{
-  max-width:1100px;
-  margin:auto;
-  background:#F7FAFC;
-  border-radius:24px;
-  padding:42px;
-  border:1px solid rgba(0,61,165,0.08);
-}
-
-.eyebrow-dark{
+  line-height:1.1;
   color:#003DA5;
-  text-transform:uppercase;
-  letter-spacing:2px;
-  font-size:13px;
-  margin-bottom:8px;
-  font-weight:700;
-}
-
-.support-card h2{
-  font-size:32px;
   margin-bottom:28px;
   font-weight:800;
-}
-
-.support-grid{
-  display:grid;
-  grid-template-columns:repeat(3,1fr);
-  gap:20px;
-}
-
-.support-item{
-  background:white;
-  border-radius:16px;
-  padding:24px;
-  border-top:4px solid #FFC72C;
-}
-
-.support-label{
-  display:block;
-  color:#003DA5;
-  font-size:12px;
-  font-weight:700;
   text-transform:uppercase;
+}
+
+.main-list{
+  padding-left:34px;
+}
+
+.main-list li{
+  color:#000000;
+  font-size:16px;
+  line-height:1.9;
+  margin-bottom:8px;
+  font-weight:500;
+}
+
+.second-list{
+  margin-top:18px;
+}
+
+.disclaimer-block{
+  margin:28px 0 14px;
+}
+
+.disclaimer-title{
+  font-size:20px;
+  color:#003DA5;
+  font-weight:800;
+  margin-bottom:8px;
+}
+
+.disclaimer-text{
+  color:#000000;
+  font-size:16px;
+  line-height:1.9;
+  margin-bottom:0;
+  font-weight:500;
+}
+
+.exchange-block{
+  margin-top:18px;
+}
+
+.exchange-title{
+  font-size:22px;
+  color:#003DA5;
+  font-weight:800;
   margin-bottom:10px;
-  letter-spacing:1.5px;
 }
 
-.support-value{
-  color:#2D3748;
-  font-size:15px;
-  line-height:1.6;
+.exchange-subtitle{
+  font-size:20px;
+  color:#333F48;
+  font-weight:800;
+  margin-bottom:15px;
 }
 
-.font-medium{
-  font-weight:600;
+.exchange-list{
+  list-style:none;
+  padding-left:42px;
 }
 
-.leading-relaxed{
-  line-height:1.7;
+.exchange-list li{
+  position:relative;
+  color:#000000;
+  font-size:16px;
+  line-height:1.9;
+  margin-bottom:2px;
+  font-weight:500;
+}
+
+.exchange-list li::before{
+  content:"-";
+  position:absolute;
+  left:-28px;
+  top:0;
+  color:#000000;
+  font-size:20px;
+  font-weight:700;
+}
+
+.exchange-list a{
+  color:#000000;
+  text-decoration:underline;
+  font-weight:500;
+}
+
+.exchange-list a:hover{
+  color:#003DA5;
 }
 
 /* REVEAL */
@@ -587,27 +450,31 @@ onMounted(() => {
     font-size:16px;
   }
 
-  .content-section,
-  .support-section{
-    padding:34px 6%;
+  .content-section{
+    padding:40px 6% 20px;
   }
 
-  .content-wrapper h2,
-  .support-card h2{
-    font-size:26px;
+  .content-wrapper h2{
+    font-size:30px;
   }
 
-  .support-grid{
-    grid-template-columns:1fr;
+  .main-list{
+    padding-left:24px;
   }
 
-  .notice-card{
-    flex-direction:column;
-    align-items:flex-start;
+  .main-list li,
+  .disclaimer-text,
+  .exchange-list li{
+    font-size:15px;
+    line-height:1.8;
   }
 
-  .support-card{
-    padding:30px 22px;
+  .exchange-list{
+    padding-left:28px;
+  }
+
+  .exchange-list li::before{
+    left:-20px;
   }
 
 }
