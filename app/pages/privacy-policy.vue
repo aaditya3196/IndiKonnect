@@ -279,7 +279,7 @@ We post testimonials on our website which may contain personal information. We d
           </h3>
 
           <p>
-            Indi Konnect welcomes your comments regarding this Statement of Privacy. If you believe that Indi Konnect has not adhered to this Statement, please contact QNET’s webmaster. We will use commercially reasonable efforts to promptly determine and remedy the problem.
+            Indi Konnect welcomes your comments regarding this Statement of Privacy. If you believe that Indi Konnect has not adhered to this Statement, please contact Indi Konnect’s webmaster. We will use commercially reasonable efforts to promptly determine and remedy the problem.
           </p>
 
           <div class="contact-grid">
