@@ -145,7 +145,7 @@ onMounted(() => {
 
 .hero-section{
   position:relative;
-  padding:70px 5% 30px;
+  padding:70px 5% 20px;
   background:#003DA5;
   overflow:hidden;
   display:flex;
