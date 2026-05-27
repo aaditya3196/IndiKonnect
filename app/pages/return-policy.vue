@@ -49,200 +49,60 @@
           Return and Replacement of Your Ordered Products
         </h2>
 
-        <div class="legal-point">
-          <p>
-            <span class="point-number">1.</span>
-            In the event the product/s received by you is different from what was
-            ordered, you must notify us via email within seven (7) days from the
-            date of receipt of the product.
-          </p>
-        </div>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">2.</span>
-            In the event of any damage or there is shortage of the product/s
-            received; you must notify us via email within seven (7) days of
-            receipt of the product/s.
-          </p>
-        </div>
-
-        <h2 class="section-heading">
-          Replacement Process Timeline
-        </h2>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">3.</span>
-            Customers and distributors must notify Indi Konnect within seven (7)
-            days from the date of receipt of the product.
-          </p>
-        </div>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">4.</span>
-            Returned products are verified upon receipt at the Indi Konnect
-            warehouse and checked against all replacement criteria.
-          </p>
-        </div>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">5.</span>
-            Approved exchanged or replacement products will be dispatched and
-            delivered within the specified timelines.
-          </p>
-        </div>
-
-        <h2 class="section-heading">
-          Exchange Checklist
-        </h2>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">6.</span>
-            Physical Product replacement requests are applicable only within
-            7 days from the date of receipt of the product.
-          </p>
-        </div>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">7.</span>
-            The Distributor should send a mail from his/her registered email ID
-            only, within 7 days from the date of receipt, mentioning all
-            relevant details to dummy@indikonnect.com
-          </p>
-        </div>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">8.</span>
-            Online form to be downloaded and filled in by the Distributor while
-            couriering the product back to the Indi Konnect warehouse for
-            product replacement.
-          </p>
-        </div>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">9.</span>
-            The Distributor should meet all criteria related to the product
-            replacement.
-          </p>
-        </div>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">10.</span>
-            Upon receipt of the returned product(s) at the Indi Konnect
-            warehouse, and subject to compliance with all the stipulated
-            criteria for replacement, the company will initiate dispatch of the
-            correct product(s) within seven (7) working days.
-          </p>
-        </div>
-
-        <div class="legal-point">
-          <p>
-            <span class="point-number">11.</span>
-            In the event of a delay beyond the stipulated timeline due to
-            non-availability of stock, the concerned Distributor/Customer will
-            be notified via email regarding the revised dispatch schedule.
-          </p>
-        </div>
-
-        <div class="legal-point last-point">
-          <p>
-            <span class="point-number">12.</span>
-            If approved, the exchanged or replaced product will be delivered
-            within 15 days.
-          </p>
-        </div>
-
-      </div>
-
-    </section>
-
-    <!-- NOTICE -->
-    <section class="notice-section">
-
-      <div class="notice-card reveal">
-
-        <div class="note-icon">
-          !
-        </div>
-
-        <div>
-
-          <p class="notice-title">
-            Important Notice
-          </p>
-
-          <p class="notice-text">
-            Please note: Any updates regarding delays in product deliveries are
-            published on the official company website for reference.
-          </p>
-
-        </div>
-
-      </div>
-
-    </section>
-
-    <!-- SUPPORT -->
-    <section class="support-section">
-
-      <div class="support-card reveal">
-
-        <p class="eyebrow-dark">
-          Need Assistance?
+        <p class="intro-text">
+          In the event the product/s received by you is different from what was ordered, you must notify us via email within seven (7) days from the date of receipt of the product. In the event of any damage or there is shortage of the product/s received; you must notify us via email within seven (7) days of receipt of the product/s.
         </p>
 
-        <h2>
-          Contact Indi Konnect Support
-        </h2>
+        <div class="exchange-block">
 
-        <div class="support-grid">
+          <p class="exchange-title">
+            Product Exchange Check List:
+          </p>
 
-          <div class="support-item">
+          <p class="exchange-subtitle">
+            Check List:
+          </p>
 
-            <span class="support-label">
-              Email
-            </span>
+          <ul class="exchange-list">
 
-            <p class="support-value font-medium">
-              dummy@indikonnect.com
-            </p>
+            <li>
+              Physical Product replacement requests are applicable only within 7 days from the date of receipt of the product.
+            </li>
 
-          </div>
+            <li>
+              The Distributor should send a mail from his/her registered email ID only, within 7 days from the date of receipt, mentioning all relevant details to
+              <a href="mailto:dummy@indikonnect.com">
+                dummy@indikonnect.com
+              </a>
+            </li>
 
-          <div class="support-item">
+            <li>
+              <strong>Online form</strong> to be downloaded and filled in by the Distributor while couriering the product back to Vihaan warehouse for product replacement
+            </li>
 
-            <span class="support-label">
-              Phone
-            </span>
+            <li>
+              The Distributor should meet all criteria related to the product replacement
+            </li>
 
-            <p class="support-value font-medium">
-              +91 12345 67891
-            </p>
+            <li>
+              Upon receipt of the returned product(s) at the Vihaan warehouse, and subject to compliance with all the stipulated criteria for replacement, the company will initiate dispatch of the correct product(s) within seven (7) working days.
+            </li>
 
-          </div>
+            <li>
+              In the event of a delay beyond the stipulated timeline due to non-availability of stock, the concerned Distributor/Customer will be notified via email regarding the revised dispatch schedule.
+            </li>
 
-          <div class="support-item">
-
-            <span class="support-label">
-              Address
-            </span>
-
-            <p class="support-value leading-relaxed">
-              Dummy address,<br>
-              Chandigarh, India 160022
-            </p>
-
-          </div>
+          </ul>
 
         </div>
+
+        <p class="bottom-text">
+          If approved, the exchanged or replaced product will be delivered within 15 days.
+        </p>
+
+        <p class="note-text">
+          Please note: Any updates regarding delays in product deliveries are published on the official company website for reference
+        </p>
 
       </div>
 
@@ -359,8 +219,8 @@ onMounted(() => {
 .hero-text{
   color:rgba(255,255,255,0.88);
   font-size:17px;
-  line-height:1.6;
-  max-width:700px;
+  line-height:1.7;
+  max-width:720px;
   margin-bottom:28px;
 }
 
@@ -394,160 +254,86 @@ onMounted(() => {
 /* CONTENT */
 
 .content-section{
-  padding:40px 5%;
+  padding:45px 5% 25px;
+  background:#ffffff;
 }
 
 .content-wrapper{
-  max-width:1100px;
+  max-width:1150px;
   margin:auto;
 }
 
 .content-wrapper h2{
-  font-size:30px;
-  color:#003DA5;
-  margin-bottom:20px;
-  font-weight:800;
-}
-
-.section-heading{
-  margin-top:34px;
-}
-
-.legal-point{
-  padding-bottom:18px;
-  margin-bottom:18px;
-  border-bottom:1px solid rgba(0,61,165,0.08);
-}
-
-.last-point{
-  margin-bottom:0;
-  padding-bottom:0;
-  border-bottom:none;
-}
-
-.legal-point p{
-  color:#4A5568;
-  font-size:15px;
-  line-height:1.8;
-}
-
-.point-number{
-  font-weight:700;
-  color:#2D3748;
-  margin-right:6px;
-}
-
-/* NOTICE */
-
-.notice-section{
-  background:#003DA5;
-  padding:40px 5%;
-}
-
-.notice-card{
-  max-width:1100px;
-  margin:auto;
-  display:flex;
-  gap:20px;
-  align-items:center;
-  background:rgba(255,255,255,0.08);
-  border:1px solid rgba(255,255,255,0.15);
-  padding:28px;
-  border-radius:18px;
-}
-
-.note-icon{
-  width:46px;
-  height:46px;
-  border-radius:14px;
-  background:#FFC72C;
-  color:#003DA5;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  font-size:22px;
-  font-weight:800;
-  flex-shrink:0;
-}
-
-.notice-title{
-  color:white;
   font-size:20px;
-  margin-bottom:6px;
-  font-weight:700;
-}
-
-.notice-text{
-  color:rgba(255,255,255,0.88);
-  line-height:1.7;
-  font-size:15px;
-}
-
-/* SUPPORT */
-
-.support-section{
-  padding:40px 5%;
-}
-
-.support-card{
-  max-width:1100px;
-  margin:auto;
-  background:#F7FAFC;
-  border-radius:24px;
-  padding:42px;
-  border:1px solid rgba(0,61,165,0.08);
-}
-
-.eyebrow-dark{
+  line-height:1.3;
   color:#003DA5;
-  text-transform:uppercase;
-  letter-spacing:2px;
-  font-size:13px;
-  margin-bottom:8px;
-  font-weight:700;
-}
-
-.support-card h2{
-  font-size:32px;
-  margin-bottom:28px;
+  margin-bottom:26px;
   font-weight:800;
 }
 
-.support-grid{
-  display:grid;
-  grid-template-columns:repeat(3,1fr);
-  gap:20px;
+.intro-text{
+  color:#000000;
+  font-size:16px;
+  line-height:1.9;
+  font-weight:500;
+  max-width:980px;
+  margin-bottom:34px;
 }
 
-.support-item{
-  background:white;
-  border-radius:16px;
-  padding:24px;
-  border-top:4px solid #FFC72C;
+.exchange-block{
+  margin-top:10px;
 }
 
-.support-label{
-  display:block;
+.exchange-title{
+  font-size:20px;
   color:#003DA5;
-  font-size:12px;
-  font-weight:700;
-  text-transform:uppercase;
+  font-weight:800;
   margin-bottom:10px;
-  letter-spacing:1.5px;
 }
 
-.support-value{
-  color:#2D3748;
-  font-size:15px;
-  line-height:1.6;
+.exchange-subtitle{
+  font-size:20px;
+  color:#333F48;
+  font-weight:700;
+  margin-bottom:15px;
 }
 
-.font-medium{
-  font-weight:600;
+.exchange-list{
+  padding-left:30px;
 }
 
-.leading-relaxed{
-  line-height:1.7;
+.exchange-list li{
+  color:#000000;
+  font-size:16px;
+  line-height:1.9;
+  margin-bottom:4px;
+  font-weight:500;
+}
+
+.exchange-list a{
+  color:#000000;
+  text-decoration:underline;
+  font-weight:500;
+}
+
+.exchange-list a:hover{
+  color:#003DA5;
+}
+
+.bottom-text{
+  color:#000000;
+  font-size:16px;
+  line-height:1.9;
+  font-weight:500;
+  margin-top:8px;
+}
+
+.note-text{
+  color:#000000;
+  font-size:16px;
+  line-height:1.9;
+  font-style:italic;
+  margin-top:2px;
 }
 
 /* REVEAL */
@@ -579,27 +365,28 @@ onMounted(() => {
     font-size:16px;
   }
 
-  .content-section,
-  .support-section{
-    padding:34px 6%;
+  .content-section{
+    padding:40px 6% 20px;
   }
 
-  .content-wrapper h2,
-  .support-card h2{
-    font-size:26px;
+  .content-wrapper h2{
+    font-size:28px;
   }
 
-  .support-grid{
-    grid-template-columns:1fr;
+  .intro-text,
+  .exchange-list li,
+  .bottom-text,
+  .note-text{
+    font-size:15px;
+    line-height:1.8;
   }
 
-  .notice-card{
-    flex-direction:column;
-    align-items:flex-start;
+  .exchange-title{
+    font-size:20px;
   }
 
-  .support-card{
-    padding:30px 22px;
+  .exchange-subtitle{
+    font-size:18px;
   }
 
 }
