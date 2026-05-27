@@ -38,9 +38,7 @@
           </h2>
 
           <p>
-            We provide our services to you through this website based on the Terms of Use (“Terms”).
-            Please read the Terms carefully. Your use of this website constitutes your acceptance
-            of our Terms.
+            We provide our services to you through this website based on the Terms of Use (‘Terms’). Please read the Terms carefully. Your use of this website constitutes your acceptance of our Terms.
           </p>
 
         </div>
@@ -54,14 +52,7 @@
           </h3>
 
           <p>
-            We grant you a limited licence to access and make personal use of this site.
-            Except with our express written consent, you are not allowed to download or
-            modify our website, or any portion of it.
-          </p>
-
-          <p>
-            You are not allowed to reproduce, duplicate, copy or modify our website
-            or any portion of it.
+            We grant you a limited licence to access and make personal use of this site. Except with our express written consent, you are not allowed to download or modify our website, or any portion of it. You are not allowed to reproduce, duplicate, copy or modify our website or any portion of it.
           </p>
 
         </div>
@@ -75,21 +66,7 @@
           </h3>
 
           <p>
-            On this website, we may provide materials which you are expressly allowed
-            to download. By downloading any such materials, you agree to use the
-            materials only for your personal, non-commercial use.
-          </p>
-
-          <p>
-            You must retain all copyright and other proprietary notices contained
-            in the original materials or any copy of those materials.
-          </p>
-
-          <p>
-            You are not allowed to use these materials for any commercial purposes,
-            other than for the purpose of promoting the networking business of the Company,
-            or on any other website unless prior approval is obtained from Indi Konnect
-            in accordance with Company Policies & Procedures.
+            On this website, we may provide materials which you are expressly allowed to download. By downloading any such materials, you agree to use the materials only for your personal, non-commercial use. You must retain all copyright and other proprietary notices contained in the original materials or any copy of those materials. You are not allowed to use these materials for any commercial purposes, other than for the purpose of promoting the networking business of the Company, or on any other website unless a prior approval is obtained from the Company in accordance with the Indi Konnect Policies & Procedures.
           </p>
 
         </div>
@@ -103,14 +80,7 @@
           </h3>
 
           <p>
-            When you make any transaction via our website or send emails to us,
-            you agree to receive communications from us electronically.
-          </p>
-
-          <p>
-            All agreements, notices, disclosures or any other communications that
-            we provide to you electronically satisfy any legal requirement that
-            such communications be in writing.
+           When you make any transaction via our website or send emails to us, you agree to receive communications from us electronically and all agreements, notices, or any other communications that we provide you electronically satisfy any legal requirement that such communications be in writing.
           </p>
 
         </div>
@@ -124,9 +94,7 @@
           </h3>
 
           <p>
-            The content of this website, including text, graphics, images,
-            logos and the compilation of the content of this website are
-            the intellectual property of Indi Konnect.
+          The content of this website, including text, graphics, images, logos and the compilation of the content of this website are our intellectual property.
           </p>
 
         </div>
@@ -157,11 +125,7 @@
           <p>
             Links to third party websites may be provided on our website.
             However, we are not responsible for the content of those
-            third-party websites.
-          </p>
-
-          <p>
-            Please refer to our Disclaimer for further details.
+            third-party websites. Please refer to our Disclaimer
           </p>
 
         </div>
@@ -226,7 +190,6 @@
 
               <strong>
                 dummy@indikonnect.com<br>
-                dummy1@indikonnect.com
               </strong>
 
             </div>
@@ -237,7 +200,6 @@
 
               <strong>
                 +91 12345 67891<br>
-                +91 12345 67891
               </strong>
 
             </div>
